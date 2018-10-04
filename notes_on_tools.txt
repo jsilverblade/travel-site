@@ -1,0 +1,19 @@
+install git
+install nodejs
+install gulp  (npm install gulp-cli -g)
+--------------------------------------
+git status
+git add -A
+git status
+git commit -m "Added npm packages"
+git push origin master
+
+---------------------------------------
+npm init (inside project root directory)
+npm install <package> --save
+ie:  npm install jquery --save
+
+---------------------------------------
+npm install gulp-cli --global
+
+
